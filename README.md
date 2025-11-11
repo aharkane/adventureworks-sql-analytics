@@ -1,4 +1,4 @@
-# Adventureworks Product Sales and Customer Behaviour Analysis
+# Product Sales and Customer Behaviour Analysis
 ## Table of Contents
 
 1. [Executive Summary](#executive-summary)
