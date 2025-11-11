@@ -1,4 +1,4 @@
-# AdventureWorks Business Reporting & Data Maintenance Project
+# Adventureworks Product Sales and Customer Behaviour Analysis
 
 ## Project Overview
 
